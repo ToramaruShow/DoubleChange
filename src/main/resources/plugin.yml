@@ -1,0 +1,8 @@
+name: DoubleChange
+version: '${project.version}'
+main: slot.doublechange.DoubleChange
+commands:
+  dc:
+    description: HelloWorld
+    usage: /<command>
+    default: op
